@@ -1,0 +1,20 @@
+/* Basic Styles */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Banner Sections Styles */
+.banner{  
+    background:#264653;
+}
+
+/* Main Body sections Styles */
+
+/* Featured Sections Styles */
+
+.gray-image img{
+    filter: grayscale(100%);
+}
+.fa-star.filled{
+    color: #E77C40;
+}
